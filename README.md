@@ -14,4 +14,4 @@ $ pip install midlife
 
 $ midlife
 
-<img src='https://github.com/ytakefuji/midlife/raw/main/midlife.png' width=320 height=240>
+<img src='https://github.com/ytakefuji/midlife/raw/main/midlife.png' width=640 height=480>
