@@ -1,4 +1,6 @@
 # midlife
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2444117/tree)
+
 This is under review.
 
 midlife is a PyPI application for evaluating and visualzing the impact of COVID-19 on mortality of midlife in five age groups from 40 to 64 years old.
