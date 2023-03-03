@@ -13,3 +13,5 @@ $ pip install midlife
 # How to run midlife
 
 $ midlife
+
+<img src='https://github.com/ytakefuji/midlife/raw/main/midlife.png' width=320 height=240>
